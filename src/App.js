@@ -1,4 +1,5 @@
-import Tp from "../Component/tp";
+import Tp from "./Component/tp";
+
 
 function App() {
   return (
